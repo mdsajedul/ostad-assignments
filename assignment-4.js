@@ -9,3 +9,6 @@ function multiply(a, b) {
 }
 
 console.log(multiply(3, 4));
+
+// Time complexity - O(n);
+// Space complexity - O(n)
